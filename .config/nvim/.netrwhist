@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/levi/.config/dunst'
+let g:netrw_dirhist_2='/etc/modprobe.d'
+let g:netrw_dirhist_3='/home/levi/.config/i3'
+let g:netrw_dirhist_4='/home/levi/.config/awesome'
+let g:netrw_dirhist_5='/home/levi/something/pdb-tutorial/dicegame'
+let g:netrw_dirhist_6='/home/levi/temp/a/b/c/d'
+let g:netrw_dirhist_7='/usr/share/nvim/runtime/doc'
+let g:netrw_dirhist_8='/home/levi/.config/awesome/themes/powerarrow-dark'
+let g:netrw_dirhist_9='/home/levi/.config/awesome'

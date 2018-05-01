@@ -1,0 +1,131 @@
+[options]
+resize_grip = false
+hyperlinks = true
+scroll_on_output = false
+scroll_on_keystroke = true
+audible_bell = false
+visible_bell = false
+mouse_autohide = false
+allow_bold = true
+dynamic_title = true
+urgent_on_bell = true
+clickable_url = true
+font = Source Code Pro Medium 10
+scrollback_line = 1000000
+search_wrap = true
+#icon_name = terminal
+#geometry = 640x480
+
+# "system", "on" or "off"
+cursor_blink = system
+
+# "block", "underline" or "ibeam"
+cursor_shape = block
+
+# $BROWSER is used by default
+browser = firefox
+
+# word characters used for word selection
+# (default if unset: all graphic non-punctuation/space characters)
+#word_chars = -A-Za-z0-9,./?%&#:_=+@~
+
+# set size hints for the window
+#size_hints = false
+
+# emit escape sequences for other keys modified by Control
+#modify_other_keys = false
+
+#2
+[colors]
+
+# special
+foreground      = #eaeaea
+foreground_bold = #eaeaea
+cursor          = #eaeaea
+background      = #000000
+
+# black
+color0  = #000000
+color8  = #000000
+
+# red
+color1  = #d54e53
+color9  = #d54e53
+
+# green
+color2  = #b9ca4a
+color10 = #b9ca4a
+
+# yellow
+color3  = #e7c547
+color11 = #e7c547
+
+# blue
+color4  = #7aa6da
+color12 = #7aa6da
+
+# magenta
+color5  = #c397d8
+color13 = #c397d8
+
+# cyan
+color6  = #70c0b1
+color14 = #70c0b1
+
+# white
+color7  = #ffffff
+color15 = #ffffff
+#2end
+
+#3
+[colors]
+
+# special
+foreground      = #d0d0d0
+foreground_bold = #d0d0d0
+cursor          = #ff0099
+background      = rgba(0,0,0,0.9)
+
+# black
+color0  = #000000
+color8  = #808080
+
+# red
+color1  = #ff0000
+color9  = #ff0000
+
+# green
+color2  = #33ff00
+color10 = #33ff00
+
+# yellow
+color3  = #ff0099
+color11 = #ff0099
+
+# blue
+color4  = #0066ff
+color12 = #0066ff
+
+# magenta
+color5  = #cc00ff
+color13 = #cc00ff
+
+# cyan
+color6  = #00ffff
+color14 = #00ffff
+
+# white
+color7  = #d0d0d0
+color15 = #ffffff
+#3end
+
+[hints]
+#font = Monospace 12
+#foreground = #dcdccc
+#background = #3f3f3f
+#padding = 2
+#border = #3f3f3f
+#border_width = 0.5
+#roundness = 2.0
+
+# vim: ft=dosini cms=#%s
